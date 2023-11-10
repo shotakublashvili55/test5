@@ -1,4 +1,6 @@
 .colormain {background-color: aqua;
 border: 1px solid blue;
 width: 400px;
+display: flex;
+justify-content: center;
 }
